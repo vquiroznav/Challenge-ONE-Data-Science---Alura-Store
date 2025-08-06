@@ -8,7 +8,7 @@ La estructura de este cauderno es la siguiente:
 3. Calificación promedio de las tiendas
 4. Productos más y menos vendidos
 5. Envío Promedio por tienda
-6.Gráficas
+6. Gráficas
  - Comparación de Ingresos por tienda (Torta / Porcentajes)
  - Satisfacción de clientes por tienda (Barras)
  - Ingresos vs Costos de Envío (Barras/líneas
